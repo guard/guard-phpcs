@@ -1,0 +1,4 @@
+# Installed by guard-phpcs
+guard 'phpcs' do
+	watch(%r{.*\.php$})
+end
